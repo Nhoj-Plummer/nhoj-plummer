@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![output_3224332038_0](https://github.com/Nhoj-Plummer/nhoj-plummer/assets/48453616/85d51c83-9d04-4162-b1f9-bfd455abe7e6)
 
 <p> As a front end maverick with 3 years crafting slick UIs, I fuse aesthetic vision with technical mastery to create seamless React-powered user experiences. My designs speak for themselves, but it's the special sauce of empathy and EQ behind my Figma magic that enables me to deliver UX solutions that truly resonate. Though proud of my skills, I stay hungry to keep learning—because Great isn't good enough if Better is possible.</p>
+
+
+# 💼 Technical Skills
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
