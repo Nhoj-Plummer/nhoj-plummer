@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: 
 
-![output_3224332038_0](https://github.com/Nhoj-Plummer/nhoj-plummer/assets/48453616/5de42bf4-cebd-44a2-99fb-c324f16c8b5d)
+<img  src="https://github.com/Nhoj-Plummer/nhoj-plummer/assets/48453616/4d147b99-3289-4d3c-93c4-367274c378bf"/>
 
 
 - 🔭 I’m currently working on ...
