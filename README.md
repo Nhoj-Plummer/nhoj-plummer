@@ -1,4 +1,4 @@
-### What's up everyone, I'm Nhoj Plummer, Front-End Engineer/Ui Designer 🔥
+# What's up everyone, I'm Nhoj Plummer, Front-End Engineer/Ui Designer 🔥
 
 <!--
 **Nhoj-Plummer/nhoj-plummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# 🌎 
