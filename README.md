@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 
 # 🌎 Most Active Spots:
 <a href="https://www.linkedin.com/in/nhoj-plummer/">LinkedIn</a>
+<a href="https://www.frontendmentor.io/profile/Nhoj-Plummer">FrontEnd Mentor</a>
+<a href="https://www.figma.com/@NhojPlummer">Figma</a>
+<a href="https://www.upwork.com/freelancers/~0149aea18f7fd63b5c?viewMode=1">Upwork</a>
+<a href="https://twitter.com/NhojPlumme85863">Twitter</a>
